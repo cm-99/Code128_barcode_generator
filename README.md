@@ -14,6 +14,10 @@ Download the files contained in the .zip from releases and execute Code128_barco
 + **Barcode/file customization warnings:** The application will warn you if your changes to barcode or file settings would make it impossible to create the file. 
 + **Easily extendable structure:** ...at least in terms of adding other barcode types for encoding. Prepared interfaces and the example of their implementation for code128 should be clear and allow for the efficient development.
 
+For those who would rather see it in action, wait a moment, gif with a simple demo is loading beneath. 
+Unfortunately, the technology which I am using does not record pop-up warnings/menus, but there was a warning when my barcode's width exceeded page's width. If you would want to see the resulting file with barcodes it is in **demo** directory.
+![alt text](demo/barcodes_generator_demo.gif)
+
 ## Built with
 Qt 5.15.
 
